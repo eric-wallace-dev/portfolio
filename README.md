@@ -1,5 +1,5 @@
 # Janes Walk Saskatoon Website
-I made this website to teach myself how to program a website, and to learn HTML and CSS, while also helping out a non-profit organization on a volunteer basis as they needed a new website and IT person to maintain it.
+I made this website to teach myself how to program a website, and to learn HTML and CSS, while also helping out a non-profit organization on a volunteer basis as they needed a new website and programmer to maintain it.
 
 [View Live Site](https://janeswalkyxe.org)
 
